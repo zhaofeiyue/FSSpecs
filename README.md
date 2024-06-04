@@ -1,2 +1,2 @@
 # FSSpecs
-iOS CocoaPods仓库。
+iOS CocoaPods 索引仓库。
